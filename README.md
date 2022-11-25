@@ -11,7 +11,16 @@
  python -m venv .venv 
  '''
 
-### activate the environment
+## activate the environment
 '''
 .venv\Scripts\activate.bat 
 '''
+
+## pushing code to github
+### commands:-
+
+1. git add "file_name"
+
+2. git commit -m "write your commit"
+
+3. git push origin main
